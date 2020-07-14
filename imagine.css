@@ -20,7 +20,7 @@
 
 .pricing-card {
     width: 280px;
-    height: 450px;
+    height: 560px;
     margin-bottom: 1em;
     display: flex;
     flex-direction: column;
@@ -91,7 +91,7 @@
 }
 
 .pricing-card_item{
-    font-size: 1.1em;
+    font-size: 1em;
     text-align: center;
     list-style: none;
     padding: .5em;
@@ -107,6 +107,7 @@
     border: 0;
     font-size: 1.1em;
     color: #fff;
+    margin-top: -60px;
 }
 
 .btn:hover{
